@@ -1,2 +1,1 @@
-"# appToDo"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/yasumitsu/appToDo.git git push -u origin master
-"# appToDo" 
+"# appToDo"  
