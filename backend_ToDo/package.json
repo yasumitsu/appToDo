@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/loader.js",
+  "scripts": {
+    "production": "pm2 start src/loader.js --name toDoApp",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2",
+    "node-restful": "^0.2.6",
+    "nodemon": "^1.18.9",
+    "pm2": "^3.2.4"
+  }
+}
